@@ -1,2 +1,2 @@
 # SCC
-a tiny C11 compiler in C++
+a tiny C89 compiler in C++
